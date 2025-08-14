@@ -12,7 +12,8 @@ The CSV file from Kaggle was cleaned in PostgreSQL to ensure accuracy and consis
 -	Checked for and deleted duplicate rows while keeping the first occurrence
 -	Standardized text using `TRIM()` and `INITCAP()`
 
-[SQL File](Restaurant%Sales%Report.sql)
+[SQL File](Restaurant%20Sales%20Report.sql)
+
 
 # 🎯 Dashboard Objectives
 The dashboard was created to answer questions and identify the restaurant's KPIs. The objectives were to determine:
