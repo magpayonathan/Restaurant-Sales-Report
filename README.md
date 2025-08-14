@@ -23,8 +23,9 @@ The dashboard was created to answer questions and identify the restaurant's KPIs
 -	If customers prefer fast food products or beverages
 
 # Dashboard Preview
-![Dashboard Page 1](images/Dashboard_Page 1.png)
-![Dashboard Page 2](images/Dashboard_Page 2.png)
+![Dashboard Page 1](Dashboard_Page%201.png)
+![Dashboard Page 2](Dashboard_Page%202.png)
+
 
 # Key Insights
 -	The total revenue of the restaurant is 275,000 Indian Rupees.
