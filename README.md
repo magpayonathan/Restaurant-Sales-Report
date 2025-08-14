@@ -28,7 +28,7 @@ The dashboard was created to answer questions and identify the restaurant's KPIs
 # 🖼️ Dashboard Preview
 ![Dashboard Page 1](Dashboard_Page%201.png)
 ![Dashboard Page 2](Dashboard_Page%202.png)
-
+You can explore the dashboard using Power BI Desktop. Here is the [Dashboard](SQL+Power%20BI%20Project)
 
 # 📊 Key Insights
 -	The total revenue of the restaurant is 275,000 Indian Rupees.
